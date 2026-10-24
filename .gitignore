@@ -1,0 +1,6 @@
+node_modules/
+target/
+test_snapshots/
+private/
+.env
+*.log
